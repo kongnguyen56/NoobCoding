@@ -1,0 +1,50 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: linear-gradient(top, white, orange);
+}
+.wholepage{
+	margin: 0 auto;
+	margin-top: 90px;
+	width: 700px;
+	height: 580px;
+	border: 2px black;
+	border-radius: 10px;
+	box-shadow: 2px 3.5px 3.5px 2px black;
+}
+.header{
+	height: 120px;
+	padding-top: 20px;
+}
+.headerleft{
+	width: 100px;
+	float: left;
+}
+.headerright{
+	width: 600px;
+	float: left;
+	padding-top: 20px;
+}
+.firstline{
+	font-size: 40px;
+	color: orange;
+	text-shadow: 1.5px 1.5px black;
+	padding-left: 40px;
+}
+.secondline{
+	font-size: 20px;
+	color: green;
+	font-style: italic;
+	padding-left: 40px;
+}
+.lastline{
+	float:right;
+}
+ul{
+	margin-left: 120px;
+}
+.section{
+	text-indent: 20px;
+}
