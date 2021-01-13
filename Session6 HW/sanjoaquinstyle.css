@@ -10,7 +10,7 @@ h2{
 	font-size: 35px;
 
 }
-ul li{
+ul.menu li{
 	list-style-type: none;
 	font-weight: bold;
 	float: left;
@@ -24,6 +24,9 @@ ul.menu{
 	width: 95%;
 	margin-left: 25px;
 	height: 25px;
+}
+ul.menu2{
+	padding-left: 35px;
 }
 a{
 	color: green;
