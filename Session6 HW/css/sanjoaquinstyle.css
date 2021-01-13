@@ -2,34 +2,34 @@
 	padding: 0;
 	margin: 0;
 }
-body{
+body {
 	background-image: linear-gradient(white, #facd8a);
 	height: 1000px;
 }
-h2{
+h2 {
 	font-size: 35px;
 
 }
-ul.menu li{
+ul.menu li {
 	list-style-type: none;
-	font-weight: bold;
 	float: left;
 	height: 20px;
 	border-right: 2px solid black;
 	padding-left: 35px;
 	padding-right: 25px;
 }
-ul.menu{
+ul.menu {
 	border-bottom: 2px solid orange;
 	width: 95%;
 	margin-left: 25px;
 	height: 25px;
 }
-ul.menu2{
+ul.menu2 {
 	padding-left: 35px;
 }
 a{
 	color: green;
+	font-weight: bold;
 }
 a:hover {
 	color: orange;
@@ -108,4 +108,13 @@ a:hover {
 .lineheightsmall{
 	padding-top: 5px;
 	padding-bottom: 5px;
+}
+.linegray{
+	color: gray;
+}
+.linegreen{
+	color: green;
+}
+.lineorange{
+	color: orange;
 }
