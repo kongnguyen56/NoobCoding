@@ -1,0 +1,108 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: linear-gradient(white, #facd8a);
+	height: 1000px;
+}
+h2{
+	font-size: 35px;
+
+}
+ul li{
+	list-style-type: none;
+	font-weight: bold;
+	float: left;
+	height: 20px;
+	border-right: 2px solid black;
+	padding-left: 35px;
+	padding-right: 25px;
+}
+ul.menu{
+	border-bottom: 2px solid orange;
+	width: 95%;
+	margin-left: 25px;
+	height: 25px;
+}
+a{
+	color: green;
+}
+a:hover {
+	color: orange;
+}
+.wholepage{
+	margin: 0 auto;
+	margin-top: 90px;
+	width: 1000px;
+	height: 580px;
+	border: 2px  solid black;
+	background: white;
+}
+.firstline{
+	font-size: 40px;
+	color: orange;
+	text-shadow: 1.5px 1.5px black;
+	padding-left: 40px;
+}
+.secondline{
+	font-size: 20px;
+	color: green;
+	font-style: italic;
+	padding-left: 40px;
+	font-weight: bold;
+}
+.headerleft{
+	width: 10%;
+	float: left;
+	padding-left: 10px;
+}
+.headerright{
+	width: 85%;
+	float: left;
+	padding-top: 10px;
+}
+.header{
+	border-bottom: 2px solid orange;
+	width: 95%;
+	margin-left: 25px;
+	margin-bottom: 5px;
+	height: 100px
+}
+.footer{
+	border-top: 2px solid orange;
+	width: 95%;
+	height: 35px;
+	margin-left: 25px;
+	padding-top: 10px
+}
+.lastline{
+	float: right;
+
+}
+.linestyle{
+	margin-left: 2.5%;
+	width: 90%;
+}
+.section{
+	height: 430px;
+}
+.leftsection{
+	width: 60%;
+	height: 370px;
+	float: left;
+	padding-left: 10px;
+	border-right: 2px solid orange;
+}
+.rightsection{
+	width: 30%;
+	float: left;
+	margin-left: 30px;
+}
+.information{
+	margin-top: 2%;
+}
+.lineheightsmall{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
